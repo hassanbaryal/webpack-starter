@@ -11,7 +11,9 @@ npm i
 
 Run dev server (Port 3000)
 
-`npm run dev`
+`
+npm run dev
+`
 
 Build for production
 
